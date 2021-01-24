@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/leejongwook_movie_app_2021/static/css/main.de09dbd2.chunk.css",
+    "main.js": "/leejongwook_movie_app_2021/static/js/main.2abf1c97.chunk.js",
+    "main.js.map": "/leejongwook_movie_app_2021/static/js/main.2abf1c97.chunk.js.map",
+    "runtime-main.js": "/leejongwook_movie_app_2021/static/js/runtime-main.6886d9ed.js",
+    "runtime-main.js.map": "/leejongwook_movie_app_2021/static/js/runtime-main.6886d9ed.js.map",
+    "static/js/2.78a81bcf.chunk.js": "/leejongwook_movie_app_2021/static/js/2.78a81bcf.chunk.js",
+    "static/js/2.78a81bcf.chunk.js.map": "/leejongwook_movie_app_2021/static/js/2.78a81bcf.chunk.js.map",
+    "index.html": "/leejongwook_movie_app_2021/index.html",
+    "static/css/main.de09dbd2.chunk.css.map": "/leejongwook_movie_app_2021/static/css/main.de09dbd2.chunk.css.map",
+    "static/js/2.78a81bcf.chunk.js.LICENSE.txt": "/leejongwook_movie_app_2021/static/js/2.78a81bcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6886d9ed.js",
+    "static/js/2.78a81bcf.chunk.js",
+    "static/css/main.de09dbd2.chunk.css",
+    "static/js/main.2abf1c97.chunk.js"
+  ]
+}
