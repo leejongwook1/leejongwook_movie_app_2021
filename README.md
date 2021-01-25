@@ -9,3 +9,5 @@ _홈페이지로 동작하게 하는 방법_
 3. package.json의 scripts에 "deploy": "gh-pages -d build", 하고 npm run build 시 build 파일 생성됨
 4. "predeploy": "npm run build" 추가하고 npm run deploy하면 홈페이지 정상 작동함.
    (npm run deploy를 하면 npm run build predeploy가 자동 실행됨)
+
+-참고 : https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
